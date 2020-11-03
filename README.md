@@ -13,11 +13,11 @@ Color infomration:
 
 Language information:
 
-- de (german)
-- en (english)
-- fr (french)
-- es (spanish)
-- it (italian)
+- de
+- en
+- fr
+- es
+- it
 
 "1000": {
     "code": "1000",
@@ -55,3 +55,6 @@ Language information:
       "it": "Beige verdastro",
       "nl": "Groenbeige"
     }
+
+
+source: https://www.ral-farben.de/ (01.11.2020)
