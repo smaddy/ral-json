@@ -2,13 +2,16 @@
 RAL Colors 
 Including:
 Color infomration:
+
 - hex
 - websafe
 - rgb
 - hsl
 - hsb
 - cmyk
+
 Language information:
+
 - de (german)
 - en (english)
 - fr (french)
