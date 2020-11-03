@@ -1,5 +1,5 @@
-# ral (json)
-RAL Colors 
+# ral json
+RAL Classic Colors 
 Including:
 
 Color infomration:
