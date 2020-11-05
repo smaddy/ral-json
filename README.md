@@ -54,6 +54,7 @@ Language information:
       "es": "Beige verdoso",
       "it": "Beige verdastro",
       "nl": "Groenbeige"
-    }```
+    }
+
 
 source: https://www.ral-farben.de/ (01.11.2020)
