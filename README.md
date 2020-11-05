@@ -56,5 +56,4 @@ Language information:
       "nl": "Groenbeige"
     }
 
-
 source: https://www.ral-farben.de/ (01.11.2020)
